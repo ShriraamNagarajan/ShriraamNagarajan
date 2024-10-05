@@ -2,7 +2,7 @@
 # Hi, I'm Shriraam Nagarajan 👋<br><br>
 A dedicated and highly driven software engineering graduate, constantly upskilling and exploring new facets of the field. I’m particularly interested in full-stack web development, backend development, API development, and cloud computing roles.<br><br>
 ## About Me:<br><br>
-🤝 I’m looking to collaborate on:<br>- **Open-source projects focused on cloud computing, finance, or educational platforms**<br>- **Projects utilizing Angular, ASP.NET Core, or cloud services like AWS and Azure**<br><br
+🤝 I’m looking to collaborate on:<br>- **Open-source projects focused on cloud computing, finance, or educational platforms**<br>- **Projects utilizing Angular, ASP.NET Core, or cloud services like AWS and Azure**<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriraam-nagarajan-827b38198/) 
